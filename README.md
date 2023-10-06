@@ -1,2 +1,4 @@
 # COL100-2023-spring
 All assignments and respective code implementations for COL100: Introduction to Programming course by IIT Delhi. (Prof. Abhijnan Chakraborty)
+
+A calculator application with support for arithmetic operations, brackets, and error handling. Implemented in Python, the project makes use of and showcases algorithm design, input management, and accurate evaluation of expressions, enhancing problem-solving and software skills. Utilizes Stack data structure to convert the input infix expression to postfix expression while maintaining the priority order of operators. GUI was developed using Tkinter module. 400-line long source code. Outputs correct answer with more than 90% accuracy.
